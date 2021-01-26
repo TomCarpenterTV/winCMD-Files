@@ -1,0 +1,36 @@
+Windows Command Line for Beginners
+
+What is the Command Line?
+	History
+	Today (Windows 10)
+	Running the Command Line
+Getting Around in the Command Line
+	Changing Directories (Folders)
+	Shortcuts for Navigation
+	Opening to a Specific Location
+Working with Directories
+	Creating a Directory
+	Creating Multiple Directories
+	Removing a Directory
+	Removing Multiple Directories
+	Renaming a Directory
+Working with Text Files
+	Viewing Text File Contents
+	Editing Text Files
+	Creating Text Files
+	Generating Text Files from Other Commands
+Common Command Line Utilities
+	Networking Tools
+		IP Configuration
+		Network Statistics
+	System Tools
+		Processes
+		Memory
+		CPU
+		Disks
+Five Tips to Make You a Pro
+	1 - Get Help
+	2 - Use Third-Party Tools
+	3 - Use Piping
+	4 - Perform Large Operations
+	5 - Use Batch Files
